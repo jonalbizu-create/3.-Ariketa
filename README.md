@@ -53,12 +53,5 @@
         <h2>8. Atzeko Planoaren Kolore-Aldatzailea</h2>
         <button onclick="aldatuAtzekoPlanoarenKolorea()">Aldatu</button>
     </section>
-
-  <script src="script.js"></script>
-   <script>
-     // 6. eta 7. ariketetarako aldagai globalak.
-        let klikKopurua = 0;
-        let zenbakiSekretua = Math.floor(Math.random() * 5) + 1;
-    </script>
 </body>
 </html>
