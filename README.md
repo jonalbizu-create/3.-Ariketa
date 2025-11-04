@@ -3,7 +3,6 @@
 <html lang="eu">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>3.ariketa</title>
     </head>
 <body>
 
